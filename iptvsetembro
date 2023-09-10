@@ -1,0 +1,70 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1,Globo SP 4k²
+http://supertv.red:80/nii5jn8d/gz6su0qk/101828.ts
+#EXTINF:-1,Telecine Action 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/99970.ts
+#EXTINF:-1,Telecine Pipoca 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/99948.ts
+#EXTINF:-1,Telecine Touch 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/99934.ts
+#EXTINF:-1,Telecine Premium 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/99941.ts
+#EXTINF:-1,Telecine Fun 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/99952.ts
+#EXTINF:-1,Telecine Cult 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/99959.ts
+#EXTINF:-1,HBO 4k
+http://supertv.red:80/nii5jn8d/gz6su0qk/100372.ts
+#EXTINF:-1,HBO 2 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100366.ts
+#EXTINF:-1,HBO Xtreme 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100329.ts
+#EXTINF:-1,HBO Signature 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100335.ts
+#EXTINF:-1,HBO Pop 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100342.ts
+#EXTINF:-1,HBO Plus 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100348.ts
+#EXTINF:-1,HBO Mundi  4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100355.ts
+#EXTINF:-1,HBO Family 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100360.ts
+#EXTINF:-1,Warner Channel 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100469.ts
+#EXTINF:-1,TNT 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100486.ts
+#EXTINF:-1,Space 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100514.ts
+#EXTINF:-1,Megapix 4k
+http://supertv.red:80/nii5jn8d/gz6su0qk/100529.ts
+#EXTINF:-1,FX 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100535.ts
+#EXTINF:-1,Cinemax   4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100543.ts
+#EXTINF:-1,Axn 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100561.ts
+#EXTINF:-1,Axn 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100565.ts
+#EXTINF:-1,SYFY 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100505.ts
+#EXTINF:-1,AMC 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100569.ts
+#EXTINF:-1,Nick JR 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100904.ts
+#EXTINF:-1,Gloobinho 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100925.ts
+#EXTINF:-1,Disney Channel 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100938.ts
+#EXTINF:-1,Discovery Kids 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100945.ts
+#EXTINF:-1,Cartoon Network 4K
+http://supertv.red:80/nii5jn8d/gz6su0qk/100951.ts
+#EXTINF:-1,SBT HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/101626.ts
+#EXTINF:-1,Band SP SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/101603.ts
+#EXTINF:-1,Globo NSC TV Blumenau HD
+http://supertv.red:80/nii5jn8d/gz6su0qk/102566.ts
+#EXTINF:-1,RecordTV SP SD
+http://supertv.red:80/nii5jn8d/gz6su0qk/101872.ts
